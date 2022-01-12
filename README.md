@@ -13,5 +13,5 @@ Nitro Generator
 
 ## How to use
 1. Type how much codes du you wnt.
-2. Open file (kodovi.txt)
+2. Open file (kodovi.txt).
 3.And enjoy.
